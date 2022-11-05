@@ -8,13 +8,11 @@ Je vous présente mon générateur de mot de passe sécurisé et paramétrable f
 ## Fonctionnalités
 
 -  Générer un mot de passe sécurisé.
--  Système de connexion. 
--  Voir tous les articles.
--  Voir un article en particulier.
--  Ajouter un article.
--  En tant qu'utilisateur normal, pouvoir supprimer seulement ses articles.
--  En tant qu'admin, pouvoir supprimer n'importe quel article.
--  Se déconnecter.
+-  Choisir la longueur de son mot de passe.
+-  Choisir si le mot de passe contient des minuscules.
+-  Choisir si le mot de passe contient des majuscules.
+-  Choisir si le mot de passe contient des chiffres.
+-  Choisir si le mot de passe contient des caractères spéciaux.
 
 ## Technologies utilisées
 
