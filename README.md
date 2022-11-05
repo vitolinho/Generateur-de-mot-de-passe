@@ -1,5 +1,5 @@
 ## <p align="center">Generateur-de-mot-de-passe</p>
-Je vous présente mon générateur de mot de passe sécurisé et paramétrable fait avec Javascript.
+Je vous présente mon [générateur de mot de passe sécurisé et paramétrable](https://generateurmdp-laces.netlify.app/) fait avec Javascript.
 
 ## Objectifs du projet
 
