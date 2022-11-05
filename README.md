@@ -7,7 +7,7 @@ Je vous présente mon générateur de mot de passe sécurisé et paramétrable f
 
 ## Fonctionnalités
 
--  Créer un compte.
+-  Générer un mot de passe sécurisé.
 -  Système de connexion. 
 -  Voir tous les articles.
 -  Voir un article en particulier.
