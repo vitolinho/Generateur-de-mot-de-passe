@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root{
+    --couleur1: #7CB3E3;
+    --couleur2: #205495;
+    --couleur3: #FDB321;
+    --couleurText: #fff;
+}
+
+*, *::after, *::before
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: "Poppins";
+    background-color: var(--couleur1);
+    color: var(--couleurText);
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #205495;
+    padding: 10px;
+    border-radius: 6px;
+    width: 500px;
+    height: 400px;
+}
+
+.container-header{
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #7CB3E3;
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-header button{
+    background-color: white;
+    border: none;
+    color: #000;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0.25rem;
+    position: absolute;
+    top: 38%;
+    right: 40%;
+    transform: translate(0, -10px);
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    opacity: 0;
+}
+
+.container-header:hover button {
+    opacity: 1;
+    transform: translate(0, 0);
+    transition: all ease 0.1s;
+}
+
+.container-header button:active{
+    transform: translateY(2px);
+    transition: all ease 0.1s;
+}
+
+.container-body{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+}
+
+.control{
+    width: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 16px;
+}
+
+#len{
+    width: 40px;
+}
+
+.genBtn{
+    margin-top: 20px;
+    background-color: #FDB321;
+    border: none;
+    cursor: pointer;
+    padding: 0.25rem;
+    width: 400px;
+    height: 50px;
+    font-size: 18px;
+    transition: all ease 0.1s;
+}
+
+.genBtn:active{
+    background-color: #DE9502;
+    transform: translateY(2px);
+    transition: all ease 0.1s;
+}
+
+input[type='checkbox'] {
+    accent-color: #FDB321;
+}
+
+#password::before, #password::after, #password:active, #password{
+    background-color: #7CB3E3;
+    border: none;
+    outline: none;
+    color: var(--couleurText);
+    font-size: 24px;
+    width: 300px;
+}
+
+::selection {
+    color: none;
+    background: none;
+}
+
+::-moz-selection {
+    color: none;
+    background: none;
+}
+
+@media screen and (max-width: 770px)
+{
+    .container{
+        width: 400px;
+    }
+
+    .container-header{
+        width: 300px;
+    }
+
+    .container-body{
+        width: 300px;
+    }
+
+    .control{
+        width: 300px;
+    }
+
+    .container-header button{
+        opacity: 1;
+        top: 37%;
+        right: 17%;
+    }
+
+    #password{
+        width: 250px;
+    }
+
+    #password::before, #password::after, #password:active, #password{
+        width: 250px;
+    }
+
+    .genBtn{
+        width: 300px;
+        font-size: 16px;
+    }
+
+    #len{
+        width: 25px;
+    }
+
+    h1{
+        font-size: 24px;
+    }
+
+    #password{
+        font-size: 16px;
+    }
+}
