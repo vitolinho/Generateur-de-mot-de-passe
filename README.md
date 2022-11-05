@@ -13,6 +13,7 @@ Je vous présente mon générateur de mot de passe sécurisé et paramétrable f
 -  Choisir si le mot de passe contient des majuscules.
 -  Choisir si le mot de passe contient des chiffres.
 -  Choisir si le mot de passe contient des caractères spéciaux.
+-  Copier le mot de passe dans le presse-papier.
 
 ## Technologies utilisées
 
