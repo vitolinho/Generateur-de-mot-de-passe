@@ -1,9 +1,9 @@
-## <p align="center">Generateur-de-mot-de-passe</p>
-Je vous présente mon [générateur de mot de passe sécurisé et paramétrable](https://generateurmdp-laces.netlify.app/) fait avec Javascript.
+## <p align="center">Todo List vanilla Javascript</p>
+Je vous présente ma [Todo List](https://to-do-list-app-laces.netlify.app/) fait avec vanilla Javascript.
 
 ## Objectifs du projet
 
-- Renforcer mes compétences en front avec  Html, css et Javascript.
+- Renforcer mes compétences en front avec Html, css et Javascript.
 
 ## Fonctionnalités
 
