@@ -3,6 +3,7 @@ Je vous présente ma [Todo List](https://to-do-list-app-laces.netlify.app/) fait
 
 ## Objectifs du projet
 
+- Faire mon propre outil pour organiser mes journées.
 - Renforcer mes compétences en front avec Html, css et Javascript.
 
 ## Fonctionnalités
