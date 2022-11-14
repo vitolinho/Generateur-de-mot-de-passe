@@ -3,7 +3,7 @@ Je vous présente mon [générateur de mot de passe sécurisé et paramétrable]
 
 ## Objectifs du projet
 
-- Faire mon propre outil pour avoir des très bon mot de passes.
+- Faire mon propre outil pour avoir des très bons mots de passes.
 - Renforcer mes compétences en front avec Html, css et Javascript.
 
 ## Fonctionnalités
