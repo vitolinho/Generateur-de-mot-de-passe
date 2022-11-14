@@ -3,16 +3,16 @@ Je vous présente mon [générateur de mot de passe sécurisé et paramétrable]
 
 ## Objectifs du projet
 
-- Faire mon propre outil pour organiser mes journées.
+- Faire mon propre outil pour avoir des très bon mot de passes.
 - Renforcer mes compétences en front avec Html, css et Javascript.
 
 ## Fonctionnalités
 
--  Ajouter un todo.
--  Supprimer un todo.
--  Changer l'état du todo, s'il est accompli ou pas.
--  Un mode clair/sombre.
--  Utilisation du LocalStorage pour sauveagrder les todos et leurs états.
+-  Générer un mot de passe sécurisé.
+-  Choisir si le mot de passe contient des majuscules. 
+-  Choisir si le mot de passe contient des minuscules.
+-  Choisir si le mot de passe contient des chiffres.
+-  Choisir si le mot de passe contient des caractères spéciaux.
 
 ## Technologies utilisées
 
