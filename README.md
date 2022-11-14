@@ -7,13 +7,11 @@ Je vous présente ma [Todo List](https://to-do-list-app-laces.netlify.app/) fait
 
 ## Fonctionnalités
 
--  Générer un mot de passe sécurisé.
--  Choisir la longueur de son mot de passe.
--  Choisir si le mot de passe contient des minuscules.
--  Choisir si le mot de passe contient des majuscules.
--  Choisir si le mot de passe contient des chiffres.
--  Choisir si le mot de passe contient des caractères spéciaux.
--  Copier le mot de passe dans le presse-papier.
+-  Ajouter un todo.
+-  Supprimer un todo.
+-  Changer l'état du todo, s'il est accompli ou pas.
+-  Un mode clair/sombre.
+-  Utilisation du LocalStorage pour sauveagrder les todos et leurs états.
 
 ## Technologies utilisées
 
