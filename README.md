@@ -9,6 +9,7 @@ Je vous présente mon [générateur de mot de passe sécurisé et paramétrable]
 ## Fonctionnalités
 
 -  Générer un mot de passe sécurisé.
+-  Choisir la longueur du mot de passe.
 -  Choisir si le mot de passe contient des majuscules. 
 -  Choisir si le mot de passe contient des minuscules.
 -  Choisir si le mot de passe contient des chiffres.
